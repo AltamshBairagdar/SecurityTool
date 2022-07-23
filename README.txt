@@ -2,7 +2,7 @@
 
 >About Project - This is simple Python Programming Language project in Python version 3.7
 
->Project contains the 1] Random Password Genrato
+>Project contains the 1] Random Password Genrator
 		   2] String To Hash Converter
 		   3] Strong Password Checker
 
